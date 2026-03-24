@@ -145,3 +145,8 @@
 </picture>
 
 -----  
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5FABEE&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
