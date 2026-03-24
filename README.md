@@ -116,3 +116,9 @@
 <a href="https://numpy.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="32" height="32" alt="NumPy"/>
 </a>
+
+-----
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=matheusperona&color=blue"/>
+
+-----
